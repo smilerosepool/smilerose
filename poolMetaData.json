@@ -4,5 +4,5 @@
   "ticker": "SRP",
   "homepage": "https://twitter.com/smilerosepool",
   "extended": "https://raw.githubusercontent.com/smilerosepool/smilerose/main/extendedMeta.json",
-  "nonce": "$(date +%s)"
+  "nonce": "1724389736"
 }
