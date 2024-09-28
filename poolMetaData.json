@@ -1,7 +1,8 @@
 {
-  "name": "Smile Rose Pool",
-  "description": "SRP has been operated since 2021! ぜひ委任お願いします。",
-  "ticker": "SRP",
-  "homepage": "https://twitter.com/smilerosepool",
-  "extended": "https://raw.githubusercontent.com/smilerosepool/smilerose/main/extendedMeta.json"
+    "name": "Smile Rose Pool",
+    "description": "SRP has been operated since 2021! ぜひ委任お願いします。",
+    "ticker": "SRP",
+    "homepage": "https://twitter.com/smilerosepool",
+    "extended": "https://raw.githubusercontent.com/smilerosepool/smilerose/main/extendedMeta.json",
+    "nonce":"1727516634"
 }
